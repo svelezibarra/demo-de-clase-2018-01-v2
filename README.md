@@ -34,3 +34,6 @@ Este es otro texto. Ejemplo de codigo de Python
 Haga click [aquí](https://www.google.com.co/) acá para ir a Google.
 
 Este es otro texto más.
+## Sección 4
+
+Actualización Rama 2
